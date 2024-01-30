@@ -1,3 +1,2 @@
 # RECursionNITD-app
-Mobile App for RECursion
-
+Mobile App for RECursion 
